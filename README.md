@@ -1,8 +1,7 @@
-﻿# Trocar cor de uma página
+﻿# Trocar corde uma página
 
 ![](./img/Captura%20de%20tela%202025-01-30%20103840.png./)
 
----
 ## Sobre 
 Projeto do curso de Desenvolvimento de Sistemas do [SENAI Jandira](https://sp.senai.br/unidade/jandira/), que tem como objetivo aplicar conceitos básicos de javascript e HTML/CSS para criar uma página web que troca a cor de fundo.
 
